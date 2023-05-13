@@ -1,1 +1,1 @@
-# server
+# minecraft server Nukkit BDS
