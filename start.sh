@@ -1,0 +1,1 @@
+java -jar NukkitStarter-Ver-1.0.0.jar
